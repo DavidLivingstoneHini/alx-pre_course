@@ -1,5 +1,5 @@
 # Welcome!
-## This is reposistory contains all my ALX projects.
+## This reposistory contains all my ALX projects.
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
